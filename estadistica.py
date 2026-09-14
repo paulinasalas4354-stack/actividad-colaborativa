@@ -5,3 +5,6 @@ print("Máximo:", maximo)
 
 minimo = min(datos)
 print("Mínimo:", minimo)
+
+rango = maximo - minimo
+print("Rango:", rango)

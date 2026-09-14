@@ -13,3 +13,12 @@ cantidad = len(datos)
 print("Cantidad de elementos:", cantidad)
 
 print("\n--- Resultados del análisis ---")
+
+maximo = max(datos)
+print("Máximo:", maximo)
+
+minimo = min(datos)
+print("Mínimo:", minimo)
+
+rango = maximo - minimo
+print("Rango:", rango)
